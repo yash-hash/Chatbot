@@ -8,6 +8,7 @@ Chatbot using python
 2) open the command prompt make sure every library is installed
 --> if not use the pip install command in your cmd & install the libraries.
 3) copy the path of your folder where all your files of chatbot are located in your system.
+--> cd <path> or pushd <path>
 4) run the train_chatbot.py file in cmd prompt using following command
 --> python train_chatbot.py
 --> if there's no error you are good to go
